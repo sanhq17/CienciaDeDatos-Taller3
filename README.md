@@ -5,4 +5,5 @@ Proyecto de predicción y validación del porcentaje de individuos de doble prog
 Grupo:
 
 Alejandro Barrera Suárez  202011473
+
 Santiago Higuera Quintero 201821280
